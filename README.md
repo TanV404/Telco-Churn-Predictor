@@ -8,6 +8,12 @@ The model is built using **XGBoost** and deployed as an interactive **Streamlit 
 
 ---
 
+## 🌐 Live App
+
+[![Open App](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://telco-churn-predictor-hjchtzds7e6xwxrepjnn7o.streamlit.app/)
+
+---
+
 ## 🎯 Problem Statement
 
 Customer churn is a major challenge for subscription-based businesses. Retaining existing customers is more cost-effective than acquiring new ones.
