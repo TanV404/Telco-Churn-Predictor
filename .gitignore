@@ -17,7 +17,6 @@ ENV/
 *.xlsx
 
 # Model files (optional - include if you want reproducibility)
-*.pkl
 *.joblib
 
 # Logs
